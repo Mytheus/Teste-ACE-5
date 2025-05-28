@@ -1,3 +1,4 @@
-# TESTE
-Agora esse é um novo teste
-E essa é a nova linha de teste
+# TESTE-ACE-5
+Essa é a primeira linha de teste para o README da aula de colaboração com GitHub
+
+FIM
